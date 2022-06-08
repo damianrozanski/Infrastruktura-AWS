@@ -1,8 +1,6 @@
 #AUTENTYKACJA
 provider "aws" {
   region     = "eu-central-1"
-  access_key = "AKIA32WAD3DDDVC23U6O"
-  secret_key = "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"
 }
 
 #VPC
